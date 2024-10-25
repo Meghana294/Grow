@@ -1,1 +1,1 @@
-# Glow
+# Glow - The plant nursery
